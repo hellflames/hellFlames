@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hellFlames
 - 👀 I’m interested in ...Data Science and Machine learning
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ...Data science projects
+- 🌱 I’m currently learning ...java & JavaScript
 - 📫 How to reach me ...Email-rohit821128@gmail.com
 
 <!---

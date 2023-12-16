@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Frontend<br>I'm looking to collaborate on Angular projects<br>I'm currently learning Angular and AWS
+Hi, Thanks for visiting me! I'm a full stack dev.<br>Working on cloning of large scale applications using nodejs and Angular.
 
 
 ## 🌐 Socials:
